@@ -27,62 +27,47 @@ export default function Home() {
                         </div>
                     ) : (
                         <div className="flex justify-center flex-wrap gap-2">
-                            {" "}
                             <div className="w-full m-2 lg:m-0 lg:w-72 h-64 border-2 border-black bg-gray-300 relative overflow-hidden">
-                                {/* Placeholder Image */}
                                 <div className="w-full h-1/2 bg-gray-400 animate-pulse"></div>
-                                {/* Channel Info */}{" "}
+
                                 <div className="flex flex-col items-center justify-center h-1/2 p-4 space-y-2">
-                                    {" "}
-                                    <div className="w-20 h-20 bg-gray-400 rounded-full animate-pulse"></div>{" "}
-                                    {/* Placeholder for channel avatar */}{" "}
-                                    <div className="w-32 h-6 bg-gray-400 rounded animate-pulse"></div>{" "}
-                                    {/* Placeholder for channel name */}{" "}
-                                    <div className="w-full h-8 bg-gray-400 rounded animate-pulse"></div>{" "}
-                                    {/* Placeholder for some text */}{" "}
-                                </div>{" "}
-                            </div>{" "}
+                                    <div className="w-20 h-20 bg-gray-400 rounded-full animate-pulse"></div>
+                                    <div className="w-32 h-6 bg-gray-400 rounded animate-pulse"></div>
+
+                                    <div className="w-full h-8 bg-gray-400 rounded animate-pulse"></div>
+                                </div>
+                            </div>
                             <div className="w-full m-2 lg:m-0 lg:w-72 h-64 border-2 border-black bg-gray-300 relative overflow-hidden">
-                                {/* Placeholder Image */}
                                 <div className="w-full h-1/2 bg-gray-400 animate-pulse"></div>
-                                {/* Channel Info */}{" "}
+
                                 <div className="flex flex-col items-center justify-center h-1/2 p-4 space-y-2">
-                                    {" "}
-                                    <div className="w-20 h-20 bg-gray-400 rounded-full animate-pulse"></div>{" "}
-                                    {/* Placeholder for channel avatar */}{" "}
-                                    <div className="w-32 h-6 bg-gray-400 rounded animate-pulse"></div>{" "}
-                                    {/* Placeholder for channel name */}{" "}
-                                    <div className="w-full h-8 bg-gray-400 rounded animate-pulse"></div>{" "}
-                                    {/* Placeholder for some text */}{" "}
-                                </div>{" "}
-                            </div>{" "}
+                                    <div className="w-20 h-20 bg-gray-400 rounded-full animate-pulse"></div>
+
+                                    <div className="w-32 h-6 bg-gray-400 rounded animate-pulse"></div>
+
+                                    <div className="w-full h-8 bg-gray-400 rounded animate-pulse"></div>
+                                </div>
+                            </div>
                             <div className="w-full m-2 lg:m-0 lg:w-72 h-64 border-2 border-black bg-gray-300 relative overflow-hidden">
-                                {/* Placeholder Image */}
                                 <div className="w-full h-1/2 bg-gray-400 animate-pulse"></div>
-                                {/* Channel Info */}{" "}
+
                                 <div className="flex flex-col items-center justify-center h-1/2 p-4 space-y-2">
-                                    {" "}
-                                    <div className="w-20 h-20 bg-gray-400 rounded-full animate-pulse"></div>{" "}
-                                    {/* Placeholder for channel avatar */}{" "}
-                                    <div className="w-32 h-6 bg-gray-400 rounded animate-pulse"></div>{" "}
-                                    {/* Placeholder for channel name */}{" "}
-                                    <div className="w-full h-8 bg-gray-400 rounded animate-pulse"></div>{" "}
-                                    {/* Placeholder for some text */}{" "}
-                                </div>{" "}
-                            </div>{" "}
+                                    <div className="w-20 h-20 bg-gray-400 rounded-full animate-pulse"></div>
+
+                                    <div className="w-32 h-6 bg-gray-400 rounded animate-pulse"></div>
+
+                                    <div className="w-full h-8 bg-gray-400 rounded animate-pulse"></div>
+                                </div>
+                            </div>
                             <div className="w-full m-2 lg:m-0 lg:w-72 h-64 border-2 border-black bg-gray-300 relative overflow-hidden">
-                                {/* Placeholder Image */}
                                 <div className="w-full h-1/2 bg-gray-400 animate-pulse"></div>
-                                {/* Channel Info */}{" "}
+
                                 <div className="flex flex-col items-center justify-center h-1/2 p-4 space-y-2">
-                                    {" "}
-                                    <div className="w-20 h-20 bg-gray-400 rounded-full animate-pulse"></div>{" "}
-                                    {/* Placeholder for channel avatar */}{" "}
-                                    <div className="w-32 h-6 bg-gray-400 rounded animate-pulse"></div>{" "}
-                                    {/* Placeholder for channel name */}{" "}
-                                    <div className="w-full h-8 bg-gray-400 rounded animate-pulse"></div>{" "}
-                                    {/* Placeholder for some text */}{" "}
-                                </div>{" "}
+                                    <div className="w-20 h-20 bg-gray-400 rounded-full animate-pulse"></div>
+
+                                    <div className="w-32 h-6 bg-gray-400 rounded animate-pulse"></div>
+                                    <div className="w-full h-8 bg-gray-400 rounded animate-pulse"></div>
+                                </div>
                             </div>
                         </div>
                     )}

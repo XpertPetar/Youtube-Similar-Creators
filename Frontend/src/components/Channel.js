@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function Channel({ channel }) {
-    // Display real data
     return (
         <>
             <a className="cursor-pointer" href={channel.url}>
